@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+Hello friends
+
+I am a big data enthusiastic and would like to write code.
